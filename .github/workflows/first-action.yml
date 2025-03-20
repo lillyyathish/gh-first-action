@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: greeting
-      - run: echo "Hello World"
+        run: echo "Hello World"
       - name: goodbye
-      - run: echo "Thank you bye"
+        run: echo "Thank you bye"
       
